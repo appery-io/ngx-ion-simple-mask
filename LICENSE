@@ -22,5 +22,5 @@ SOFTWARE.
 
 ---
 
-This fork was updated and maintained by Appery.io contributors for compatibility with Angular 18, 19, and 20.  
+This fork was updated and maintained by Appery.io contributors to support modern Angular versions.  
 Original repository: https://github.com/rafaelcorradini/ngx-ion-simple-mask
