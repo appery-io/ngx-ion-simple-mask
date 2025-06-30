@@ -1,8 +1,12 @@
 {
   "name": "@appery/ngx-ion-simple-mask",
-  "version": "0.0.1",
-  "description": "My awesome Angular library",
-  "author": "Your Name",
+  "version": "0.0.3",
+  "description": "Simple mask directive for Ionic/Angular inputs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appery-io/ngx-ion-simple-mask.git"
+  }
+  "author": "Appery team",
   "license": "MIT",
   "peerDependencies": {
     "@angular/core": ">=18.0.0",
